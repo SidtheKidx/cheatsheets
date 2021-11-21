@@ -1,2 +1,2 @@
 # cheatsheets
-Data Science and Machine Learning cheatsheets
+Cheatsheet for Data Science and Machine Learning concepts.
